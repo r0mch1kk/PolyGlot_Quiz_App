@@ -61,6 +61,3 @@ An interactive Android application built with **Jetpack Compose** designed for l
 
 ### 🛡 Security Note
 This project uses Firebase. Ensure your Firestore Security Rules are configured correctly.
-
-### 📄 License
-Distributed under the MIT License. See LICENSE for more information.
